@@ -1,0 +1,1 @@
+Nodes are twitter users and edges are retweets. These were collected from various social and political hashtags.

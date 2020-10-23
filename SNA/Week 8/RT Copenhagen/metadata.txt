@@ -1,0 +1,1 @@
+This is a retweet and mentions network from the UN conference held in Copenhagen. The data was collected over a two week period.
