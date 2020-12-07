@@ -1,0 +1,1388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-12-04">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Class" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Harry Potter and the Half-Blood Prince" label="Harry Potter and the Half-Blood Prince">
+        <attvalues>
+          <attvalue for="0" value="Movie" />
+        </attvalues>
+      </node>
+      <node id="Harry Potter" label="Harry Potter">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Ron Weasley" label="Ron Weasley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Hermione Granger" label="Hermione Granger">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Draco Malfoy" label="Draco Malfoy">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Albus Dumbledore" label="Albus Dumbledore">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Horace Slughorn" label="Horace Slughorn">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Bellatrix Lestrange" label="Bellatrix Lestrange">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Rubeus Hagrid" label="Rubeus Hagrid">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Minerva McGonagall" label="Minerva McGonagall">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Severus Snape" label="Severus Snape">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Peter Pettigrew" label="Peter Pettigrew">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Remus Lupin" label="Remus Lupin">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Molly Weasley" label="Molly Weasley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Neville Longbottom" label="Neville Longbottom">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Luna Lovegood" label="Luna Lovegood">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Ginny Weasley" label="Ginny Weasley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="George Weasley" label="George Weasley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Fred Weasley" label="Fred Weasley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Arthur Weasley" label="Arthur Weasley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Filius Flitwick" label="Filius Flitwick">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Nymphadora Tonks" label="Nymphadora Tonks">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Cho Chang" label="Cho Chang">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Fenrir Greyback" label="Fenrir Greyback">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Lily Potter" label="Lily Potter">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Narcissa Malfoy" label="Narcissa Malfoy">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Cormac McLaggen" label="Cormac McLaggen">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Argus Filch" label="Argus Filch">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Tom Riddle (16 Years)" label="Tom Riddle (16 Years)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Tom Riddle (11 Years)" label="Tom Riddle (11 Years)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Poppy Pomfrey" label="Poppy Pomfrey">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Padma Patil" label="Padma Patil">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Parvati Patil" label="Parvati Patil">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Katie Bell" label="Katie Bell">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Seamus Finnigan" label="Seamus Finnigan">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Romilda Vane" label="Romilda Vane">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Gregory Goyle" label="Gregory Goyle">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Vincent Crabbe" label="Vincent Crabbe">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Pansy Parkinson" label="Pansy Parkinson">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Lavender Brown" label="Lavender Brown">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Blaise Zabini" label="Blaise Zabini">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Dean Thomas" label="Dean Thomas">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Marcus Belby" label="Marcus Belby">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Nigel Wolpert" label="Nigel Wolpert">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Eldred Worple" label="Eldred Worple">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Leanne" label="Leanne">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Amycus Carrow" label="Amycus Carrow">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Alecto Carrow" label="Alecto Carrow">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Thorfinn Rowle" label="Thorfinn Rowle">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Waitress" label="Waitress">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Harry Potter and the Order of the Phoenix" label="Harry Potter and the Order of the Phoenix">
+        <attvalues>
+          <attvalue for="0" value="Movie" />
+        </attvalues>
+      </node>
+      <node id="Lord Voldemort" label="Lord Voldemort">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Alastor 'Mad­Eye' Moody" label="Alastor 'Mad­Eye' Moody">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Sirius Black" label="Sirius Black">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Lucius Malfoy" label="Lucius Malfoy">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Dolores Umbridge" label="Dolores Umbridge">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Vernon Dursley" label="Vernon Dursley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Petunia Dursley" label="Petunia Dursley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Cornelius Fudge" label="Cornelius Fudge">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Sybil Trelawney" label="Sybil Trelawney">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Dudley Dursley" label="Dudley Dursley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Percy Weasley" label="Percy Weasley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="James Potter" label="James Potter">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Arabella Figg" label="Arabella Figg">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Kingsley Shacklebolt" label="Kingsley Shacklebolt">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Elphias Doge" label="Elphias Doge">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Emmeline Vance" label="Emmeline Vance">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Amelia Bones" label="Amelia Bones">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Wilhelmina Grubbly-Plank" label="Wilhelmina Grubbly-Plank">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Aberforth Dumbledore" label="Aberforth Dumbledore">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Zacharias Smith" label="Zacharias Smith">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Michael Corner" label="Michael Corner">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Everard" label="Everard">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Phineas Nigellus Black" label="Phineas Nigellus Black">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="John Dawlish" label="John Dawlish">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Bob" label="Bob">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Piers Polkiss" label="Piers Polkiss">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Malcolm" label="Malcolm">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Dennis" label="Dennis">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Grawp" label="Grawp">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Kreacher (voice)" label="Kreacher (voice)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Mafalda Hopkirk (voice)" label="Mafalda Hopkirk (voice)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Magorian" label="Magorian">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Bane" label="Bane">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Antonin Dolohov" label="Antonin Dolohov">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Walden Macnair" label="Walden Macnair">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Augustus Rookwood" label="Augustus Rookwood">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Jugson" label="Jugson">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Travers" label="Travers">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Young Severus Snape" label="Young Severus Snape">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Young James Potter" label="Young James Potter">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Young Sirius Black" label="Young Sirius Black">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Young Peter Pettigrew" label="Young Peter Pettigrew">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Young Remus Lupin" label="Young Remus Lupin">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Frank Longbottom" label="Frank Longbottom">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Alice Longbottom" label="Alice Longbottom">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Edgar Bones" label="Edgar Bones">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="TV Weatherman" label="TV Weatherman">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Newspaper Vendor" label="Newspaper Vendor">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Voice of Lift" label="Voice of Lift">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Harry Potter and the Goblet of Fire" label="Harry Potter and the Goblet of Fire">
+        <attvalues>
+          <attvalue for="0" value="Movie" />
+        </attvalues>
+      </node>
+      <node id="Alastor &quot;Mad-Eye&quot; Moody" label="Alastor &quot;Mad-Eye&quot; Moody">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Rita Skeeter" label="Rita Skeeter">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Cedric Diggory" label="Cedric Diggory">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Viktor Krum" label="Viktor Krum">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Fleur Delacour" label="Fleur Delacour">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Madame Olympe Maxime" label="Madame Olympe Maxime">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Barty Crouch, Sr." label="Barty Crouch, Sr.">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Frank Bryce" label="Frank Bryce">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Wormtail" label="Wormtail">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Bartemius 'Barty' Crouch Junior" label="Bartemius 'Barty' Crouch Junior">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Amos Diggory" label="Amos Diggory">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Ministry Witch" label="Ministry Witch">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Ministry Wizard" label="Ministry Wizard">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Food Trolley Lady" label="Food Trolley Lady">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Nigel" label="Nigel">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Gabrielle Delacour" label="Gabrielle Delacour">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Igor Karkaroff" label="Igor Karkaroff">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Karkaroff's Aide" label="Karkaroff's Aide">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Ernie MacMillan" label="Ernie MacMillan">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Hannah Abbott" label="Hannah Abbott">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Photographer" label="Photographer">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Angelina Johnson" label="Angelina Johnson">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Roger Davies" label="Roger Davies">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Band Lead Singer" label="Band Lead Singer">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Band Lead Guitar" label="Band Lead Guitar">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Band Drums" label="Band Drums">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Band Bass Guitar" label="Band Bass Guitar">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Band Rhythm Guitar" label="Band Rhythm Guitar">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Band Keyboards" label="Band Keyboards">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Moaning Myrtle" label="Moaning Myrtle">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Assistant Judge" label="Assistant Judge">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Harry Potter and the Prisoner of Azkaban" label="Harry Potter and the Prisoner of Azkaban">
+        <attvalues>
+          <attvalue for="0" value="Movie" />
+        </attvalues>
+      </node>
+      <node id="Sybill Trelawney" label="Sybill Trelawney">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Seamus Finnegan" label="Seamus Finnegan">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Marge Dursley" label="Marge Dursley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="The Fat Lady" label="The Fat Lady">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Stan Shunpike" label="Stan Shunpike">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Ernie Prang" label="Ernie Prang">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Dre Head (voice)" label="Dre Head (voice)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Parvati Patel" label="Parvati Patel">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Pike" label="Pike">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Tom" label="Tom">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Bem" label="Bem">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Madame Rosmerta" label="Madame Rosmerta">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Sir Cadogan" label="Sir Cadogan">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Rionach O'Neal" label="Rionach O'Neal">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Eloise Midgen" label="Eloise Midgen">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Kellah" label="Kellah">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Michael McManus" label="Michael McManus">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Girl with Flowers" label="Girl with Flowers">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Harry Potter and the Philosopher's Stone" label="Harry Potter and the Philosopher's Stone">
+        <attvalues>
+          <attvalue for="0" value="Movie" />
+        </attvalues>
+      </node>
+      <node id="Quirinus Quirrell" label="Quirinus Quirrell">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Garrick Ollivander" label="Garrick Ollivander">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Oliver Wood" label="Oliver Wood">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Goblin Bank Teller / Filius Flitwick" label="Goblin Bank Teller / Filius Flitwick">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Nearly Headless Nick" label="Nearly Headless Nick">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Rolanda Hooch" label="Rolanda Hooch">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Lee Jordan" label="Lee Jordan">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Griphook" label="Griphook">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Fat Lady" label="Fat Lady">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="The Grey Lady" label="The Grey Lady">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="The Bloody Barron" label="The Bloody Barron">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="The Sorting Hat" label="The Sorting Hat">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Fat Friar" label="Fat Friar">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Firenze (voice)" label="Firenze (voice)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Susan Bones" label="Susan Bones">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Angus" label="Angus">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Alicia Spinnet" label="Alicia Spinnet">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Marcus Flint" label="Marcus Flint">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Terrence Higgs" label="Terrence Higgs">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Baby Harry Potter" label="Baby Harry Potter">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Miles Bletchley" label="Miles Bletchley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Dedalus Diggle" label="Dedalus Diggle">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Augusta Longbottom" label="Augusta Longbottom">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Septima Vector" label="Septima Vector">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Amanda" label="Amanda">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Alice" label="Alice">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Ravenclaw Schoolboy" label="Ravenclaw Schoolboy">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Gryffindor Schoolgirl" label="Gryffindor Schoolgirl">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Hufflepuff Schoolgirl" label="Hufflepuff Schoolgirl">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Goblin (uncredited)" label="Goblin (uncredited)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Child at Zoo (uncredited)" label="Child at Zoo (uncredited)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Harry Potter and the Chamber of Secrets" label="Harry Potter and the Chamber of Secrets">
+        <attvalues>
+          <attvalue for="0" value="Movie" />
+        </attvalues>
+      </node>
+      <node id="Gilderoy Lockhart" label="Gilderoy Lockhart">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Myrtle Warren" label="Myrtle Warren">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Dobby (voice)" label="Dobby (voice)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Nicholas de Mimsy-Porpington" label="Nicholas de Mimsy-Porpington">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Colin Creevey" label="Colin Creevey">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Pomona Sprout" label="Pomona Sprout">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Tom Marvolo Riddle" label="Tom Marvolo Riddle">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Justin Finch-Fletchley" label="Justin Finch-Fletchley">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="The Sorting Hat (voice)" label="The Sorting Hat (voice)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Aragog (voice)" label="Aragog (voice)">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Young Hagrid" label="Young Hagrid">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Penelope Clearwater" label="Penelope Clearwater">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Millicent Bulstrode" label="Millicent Bulstrode">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Mr. Mason" label="Mr. Mason">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Mrs Mason" label="Mrs Mason">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Mrs Granger" label="Mrs Granger">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Mr. Granger" label="Mr. Granger">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Armando Dippet" label="Armando Dippet">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+      <node id="Bozo" label="Bozo">
+        <attvalues>
+          <attvalue for="0" value="Character" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Harry Potter and the Half-Blood Prince" target="Harry Potter" />
+      <edge id="1" source="Harry Potter and the Half-Blood Prince" target="Ron Weasley" />
+      <edge id="2" source="Harry Potter and the Half-Blood Prince" target="Hermione Granger" />
+      <edge id="3" source="Harry Potter and the Half-Blood Prince" target="Draco Malfoy" />
+      <edge id="4" source="Harry Potter and the Half-Blood Prince" target="Albus Dumbledore" />
+      <edge id="5" source="Harry Potter and the Half-Blood Prince" target="Horace Slughorn" />
+      <edge id="6" source="Harry Potter and the Half-Blood Prince" target="Bellatrix Lestrange" />
+      <edge id="7" source="Harry Potter and the Half-Blood Prince" target="Rubeus Hagrid" />
+      <edge id="8" source="Harry Potter and the Half-Blood Prince" target="Minerva McGonagall" />
+      <edge id="9" source="Harry Potter and the Half-Blood Prince" target="Severus Snape" />
+      <edge id="10" source="Harry Potter and the Half-Blood Prince" target="Peter Pettigrew" />
+      <edge id="11" source="Harry Potter and the Half-Blood Prince" target="Remus Lupin" />
+      <edge id="12" source="Harry Potter and the Half-Blood Prince" target="Molly Weasley" />
+      <edge id="13" source="Harry Potter and the Half-Blood Prince" target="Neville Longbottom" />
+      <edge id="14" source="Harry Potter and the Half-Blood Prince" target="Luna Lovegood" />
+      <edge id="15" source="Harry Potter and the Half-Blood Prince" target="Ginny Weasley" />
+      <edge id="16" source="Harry Potter and the Half-Blood Prince" target="George Weasley" />
+      <edge id="17" source="Harry Potter and the Half-Blood Prince" target="Fred Weasley" />
+      <edge id="18" source="Harry Potter and the Half-Blood Prince" target="Arthur Weasley" />
+      <edge id="19" source="Harry Potter and the Half-Blood Prince" target="Filius Flitwick" />
+      <edge id="20" source="Harry Potter and the Half-Blood Prince" target="Nymphadora Tonks" />
+      <edge id="21" source="Harry Potter and the Half-Blood Prince" target="Cho Chang" />
+      <edge id="22" source="Harry Potter and the Half-Blood Prince" target="Fenrir Greyback" />
+      <edge id="23" source="Harry Potter and the Half-Blood Prince" target="Lily Potter" />
+      <edge id="24" source="Harry Potter and the Half-Blood Prince" target="Narcissa Malfoy" />
+      <edge id="25" source="Harry Potter and the Half-Blood Prince" target="Cormac McLaggen" />
+      <edge id="26" source="Harry Potter and the Half-Blood Prince" target="Argus Filch" />
+      <edge id="27" source="Harry Potter and the Half-Blood Prince" target="Tom Riddle (16 Years)" />
+      <edge id="28" source="Harry Potter and the Half-Blood Prince" target="Tom Riddle (11 Years)" />
+      <edge id="29" source="Harry Potter and the Half-Blood Prince" target="Poppy Pomfrey" />
+      <edge id="30" source="Harry Potter and the Half-Blood Prince" target="Padma Patil" />
+      <edge id="31" source="Harry Potter and the Half-Blood Prince" target="Parvati Patil" />
+      <edge id="32" source="Harry Potter and the Half-Blood Prince" target="Katie Bell" />
+      <edge id="33" source="Harry Potter and the Half-Blood Prince" target="Seamus Finnigan" />
+      <edge id="34" source="Harry Potter and the Half-Blood Prince" target="Romilda Vane" />
+      <edge id="35" source="Harry Potter and the Half-Blood Prince" target="Gregory Goyle" />
+      <edge id="36" source="Harry Potter and the Half-Blood Prince" target="Vincent Crabbe" />
+      <edge id="37" source="Harry Potter and the Half-Blood Prince" target="Pansy Parkinson" />
+      <edge id="38" source="Harry Potter and the Half-Blood Prince" target="Lavender Brown" />
+      <edge id="39" source="Harry Potter and the Half-Blood Prince" target="Blaise Zabini" />
+      <edge id="40" source="Harry Potter and the Half-Blood Prince" target="Dean Thomas" />
+      <edge id="41" source="Harry Potter and the Half-Blood Prince" target="Marcus Belby" />
+      <edge id="42" source="Harry Potter and the Half-Blood Prince" target="Nigel Wolpert" />
+      <edge id="43" source="Harry Potter and the Half-Blood Prince" target="Eldred Worple" />
+      <edge id="44" source="Harry Potter and the Half-Blood Prince" target="Leanne" />
+      <edge id="45" source="Harry Potter and the Half-Blood Prince" target="Amycus Carrow" />
+      <edge id="46" source="Harry Potter and the Half-Blood Prince" target="Alecto Carrow" />
+      <edge id="47" source="Harry Potter and the Half-Blood Prince" target="Thorfinn Rowle" />
+      <edge id="48" source="Harry Potter and the Half-Blood Prince" target="Waitress" />
+      <edge id="49" source="Harry Potter" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="50" source="Harry Potter" target="Harry Potter and the Goblet of Fire" />
+      <edge id="51" source="Harry Potter" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="52" source="Harry Potter" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="53" source="Harry Potter" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="54" source="Ron Weasley" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="55" source="Ron Weasley" target="Harry Potter and the Goblet of Fire" />
+      <edge id="56" source="Ron Weasley" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="57" source="Ron Weasley" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="58" source="Ron Weasley" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="59" source="Hermione Granger" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="60" source="Hermione Granger" target="Harry Potter and the Goblet of Fire" />
+      <edge id="61" source="Hermione Granger" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="62" source="Hermione Granger" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="63" source="Hermione Granger" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="64" source="Draco Malfoy" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="65" source="Draco Malfoy" target="Harry Potter and the Goblet of Fire" />
+      <edge id="66" source="Draco Malfoy" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="67" source="Draco Malfoy" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="68" source="Draco Malfoy" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="69" source="Albus Dumbledore" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="70" source="Albus Dumbledore" target="Harry Potter and the Goblet of Fire" />
+      <edge id="71" source="Albus Dumbledore" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="72" source="Albus Dumbledore" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="73" source="Albus Dumbledore" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="74" source="Bellatrix Lestrange" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="75" source="Rubeus Hagrid" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="76" source="Rubeus Hagrid" target="Harry Potter and the Goblet of Fire" />
+      <edge id="77" source="Rubeus Hagrid" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="78" source="Rubeus Hagrid" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="79" source="Rubeus Hagrid" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="80" source="Minerva McGonagall" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="81" source="Minerva McGonagall" target="Harry Potter and the Goblet of Fire" />
+      <edge id="82" source="Minerva McGonagall" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="83" source="Minerva McGonagall" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="84" source="Minerva McGonagall" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="85" source="Severus Snape" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="86" source="Severus Snape" target="Harry Potter and the Goblet of Fire" />
+      <edge id="87" source="Severus Snape" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="88" source="Severus Snape" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="89" source="Severus Snape" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="90" source="Peter Pettigrew" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="91" source="Peter Pettigrew" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="92" source="Remus Lupin" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="93" source="Remus Lupin" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="94" source="Molly Weasley" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="95" source="Molly Weasley" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="96" source="Molly Weasley" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="97" source="Molly Weasley" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="98" source="Neville Longbottom" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="99" source="Neville Longbottom" target="Harry Potter and the Goblet of Fire" />
+      <edge id="100" source="Neville Longbottom" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="101" source="Neville Longbottom" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="102" source="Neville Longbottom" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="103" source="Luna Lovegood" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="104" source="Ginny Weasley" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="105" source="Ginny Weasley" target="Harry Potter and the Goblet of Fire" />
+      <edge id="106" source="Ginny Weasley" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="107" source="Ginny Weasley" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="108" source="Ginny Weasley" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="109" source="George Weasley" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="110" source="George Weasley" target="Harry Potter and the Goblet of Fire" />
+      <edge id="111" source="George Weasley" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="112" source="George Weasley" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="113" source="George Weasley" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="114" source="Fred Weasley" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="115" source="Fred Weasley" target="Harry Potter and the Goblet of Fire" />
+      <edge id="116" source="Fred Weasley" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="117" source="Fred Weasley" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="118" source="Fred Weasley" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="119" source="Arthur Weasley" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="120" source="Arthur Weasley" target="Harry Potter and the Goblet of Fire" />
+      <edge id="121" source="Arthur Weasley" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="122" source="Arthur Weasley" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="123" source="Filius Flitwick" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="124" source="Filius Flitwick" target="Harry Potter and the Goblet of Fire" />
+      <edge id="125" source="Filius Flitwick" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="126" source="Filius Flitwick" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="127" source="Nymphadora Tonks" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="128" source="Cho Chang" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="129" source="Cho Chang" target="Harry Potter and the Goblet of Fire" />
+      <edge id="130" source="Lily Potter" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="131" source="Lily Potter" target="Harry Potter and the Goblet of Fire" />
+      <edge id="132" source="Lily Potter" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="133" source="Lily Potter" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="134" source="Lily Potter" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="135" source="Argus Filch" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="136" source="Argus Filch" target="Harry Potter and the Goblet of Fire" />
+      <edge id="137" source="Argus Filch" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="138" source="Argus Filch" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="139" source="Argus Filch" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="140" source="Poppy Pomfrey" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="141" source="Padma Patil" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="142" source="Padma Patil" target="Harry Potter and the Goblet of Fire" />
+      <edge id="143" source="Parvati Patil" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="144" source="Parvati Patil" target="Harry Potter and the Goblet of Fire" />
+      <edge id="145" source="Katie Bell" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="146" source="Katie Bell" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="147" source="Seamus Finnigan" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="148" source="Seamus Finnigan" target="Harry Potter and the Goblet of Fire" />
+      <edge id="149" source="Seamus Finnigan" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="150" source="Seamus Finnigan" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="151" source="Gregory Goyle" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="152" source="Gregory Goyle" target="Harry Potter and the Goblet of Fire" />
+      <edge id="153" source="Gregory Goyle" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="154" source="Gregory Goyle" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="155" source="Gregory Goyle" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="156" source="Vincent Crabbe" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="157" source="Vincent Crabbe" target="Harry Potter and the Goblet of Fire" />
+      <edge id="158" source="Vincent Crabbe" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="159" source="Vincent Crabbe" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="160" source="Vincent Crabbe" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="161" source="Pansy Parkinson" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="162" source="Pansy Parkinson" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="163" source="Lavender Brown" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="164" source="Lavender Brown" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="165" source="Dean Thomas" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="166" source="Dean Thomas" target="Harry Potter and the Goblet of Fire" />
+      <edge id="167" source="Dean Thomas" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="168" source="Dean Thomas" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="169" source="Dean Thomas" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="170" source="Nigel Wolpert" target="Harry Potter and the Order of the Phoenix" />
+      <edge id="171" source="Harry Potter and the Order of the Phoenix" target="Lord Voldemort" />
+      <edge id="172" source="Harry Potter and the Order of the Phoenix" target="Alastor 'Mad­Eye' Moody" />
+      <edge id="173" source="Harry Potter and the Order of the Phoenix" target="Sirius Black" />
+      <edge id="174" source="Harry Potter and the Order of the Phoenix" target="Lucius Malfoy" />
+      <edge id="175" source="Harry Potter and the Order of the Phoenix" target="Dolores Umbridge" />
+      <edge id="176" source="Harry Potter and the Order of the Phoenix" target="Vernon Dursley" />
+      <edge id="177" source="Harry Potter and the Order of the Phoenix" target="Petunia Dursley" />
+      <edge id="178" source="Harry Potter and the Order of the Phoenix" target="Cornelius Fudge" />
+      <edge id="179" source="Harry Potter and the Order of the Phoenix" target="Sybil Trelawney" />
+      <edge id="180" source="Harry Potter and the Order of the Phoenix" target="Dudley Dursley" />
+      <edge id="181" source="Harry Potter and the Order of the Phoenix" target="Percy Weasley" />
+      <edge id="182" source="Harry Potter and the Order of the Phoenix" target="James Potter" />
+      <edge id="183" source="Harry Potter and the Order of the Phoenix" target="Arabella Figg" />
+      <edge id="184" source="Harry Potter and the Order of the Phoenix" target="Kingsley Shacklebolt" />
+      <edge id="185" source="Harry Potter and the Order of the Phoenix" target="Elphias Doge" />
+      <edge id="186" source="Harry Potter and the Order of the Phoenix" target="Emmeline Vance" />
+      <edge id="187" source="Harry Potter and the Order of the Phoenix" target="Amelia Bones" />
+      <edge id="188" source="Harry Potter and the Order of the Phoenix" target="Wilhelmina Grubbly-Plank" />
+      <edge id="189" source="Harry Potter and the Order of the Phoenix" target="Aberforth Dumbledore" />
+      <edge id="190" source="Harry Potter and the Order of the Phoenix" target="Zacharias Smith" />
+      <edge id="191" source="Harry Potter and the Order of the Phoenix" target="Michael Corner" />
+      <edge id="192" source="Harry Potter and the Order of the Phoenix" target="Everard" />
+      <edge id="193" source="Harry Potter and the Order of the Phoenix" target="Phineas Nigellus Black" />
+      <edge id="194" source="Harry Potter and the Order of the Phoenix" target="John Dawlish" />
+      <edge id="195" source="Harry Potter and the Order of the Phoenix" target="Bob" />
+      <edge id="196" source="Harry Potter and the Order of the Phoenix" target="Piers Polkiss" />
+      <edge id="197" source="Harry Potter and the Order of the Phoenix" target="Malcolm" />
+      <edge id="198" source="Harry Potter and the Order of the Phoenix" target="Dennis" />
+      <edge id="199" source="Harry Potter and the Order of the Phoenix" target="Grawp" />
+      <edge id="200" source="Harry Potter and the Order of the Phoenix" target="Kreacher (voice)" />
+      <edge id="201" source="Harry Potter and the Order of the Phoenix" target="Mafalda Hopkirk (voice)" />
+      <edge id="202" source="Harry Potter and the Order of the Phoenix" target="Magorian" />
+      <edge id="203" source="Harry Potter and the Order of the Phoenix" target="Bane" />
+      <edge id="204" source="Harry Potter and the Order of the Phoenix" target="Antonin Dolohov" />
+      <edge id="205" source="Harry Potter and the Order of the Phoenix" target="Walden Macnair" />
+      <edge id="206" source="Harry Potter and the Order of the Phoenix" target="Augustus Rookwood" />
+      <edge id="207" source="Harry Potter and the Order of the Phoenix" target="Jugson" />
+      <edge id="208" source="Harry Potter and the Order of the Phoenix" target="Travers" />
+      <edge id="209" source="Harry Potter and the Order of the Phoenix" target="Young Severus Snape" />
+      <edge id="210" source="Harry Potter and the Order of the Phoenix" target="Young James Potter" />
+      <edge id="211" source="Harry Potter and the Order of the Phoenix" target="Young Sirius Black" />
+      <edge id="212" source="Harry Potter and the Order of the Phoenix" target="Young Peter Pettigrew" />
+      <edge id="213" source="Harry Potter and the Order of the Phoenix" target="Young Remus Lupin" />
+      <edge id="214" source="Harry Potter and the Order of the Phoenix" target="Frank Longbottom" />
+      <edge id="215" source="Harry Potter and the Order of the Phoenix" target="Alice Longbottom" />
+      <edge id="216" source="Harry Potter and the Order of the Phoenix" target="Edgar Bones" />
+      <edge id="217" source="Harry Potter and the Order of the Phoenix" target="TV Weatherman" />
+      <edge id="218" source="Harry Potter and the Order of the Phoenix" target="Newspaper Vendor" />
+      <edge id="219" source="Harry Potter and the Order of the Phoenix" target="Voice of Lift" />
+      <edge id="220" source="Lord Voldemort" target="Harry Potter and the Goblet of Fire" />
+      <edge id="221" source="Sirius Black" target="Harry Potter and the Goblet of Fire" />
+      <edge id="222" source="Sirius Black" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="223" source="Lucius Malfoy" target="Harry Potter and the Goblet of Fire" />
+      <edge id="224" source="Lucius Malfoy" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="225" source="Vernon Dursley" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="226" source="Vernon Dursley" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="227" source="Vernon Dursley" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="228" source="Petunia Dursley" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="229" source="Petunia Dursley" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="230" source="Petunia Dursley" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="231" source="Cornelius Fudge" target="Harry Potter and the Goblet of Fire" />
+      <edge id="232" source="Cornelius Fudge" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="233" source="Cornelius Fudge" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="234" source="Dudley Dursley" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="235" source="Dudley Dursley" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="236" source="Dudley Dursley" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="237" source="Percy Weasley" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="238" source="Percy Weasley" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="239" source="Percy Weasley" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="240" source="James Potter" target="Harry Potter and the Goblet of Fire" />
+      <edge id="241" source="James Potter" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="242" source="James Potter" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="243" source="James Potter" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="244" source="Walden Macnair" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="245" source="Harry Potter and the Goblet of Fire" target="Alastor &quot;Mad-Eye&quot; Moody" />
+      <edge id="246" source="Harry Potter and the Goblet of Fire" target="Rita Skeeter" />
+      <edge id="247" source="Harry Potter and the Goblet of Fire" target="Cedric Diggory" />
+      <edge id="248" source="Harry Potter and the Goblet of Fire" target="Viktor Krum" />
+      <edge id="249" source="Harry Potter and the Goblet of Fire" target="Fleur Delacour" />
+      <edge id="250" source="Harry Potter and the Goblet of Fire" target="Madame Olympe Maxime" />
+      <edge id="251" source="Harry Potter and the Goblet of Fire" target="Barty Crouch, Sr." />
+      <edge id="252" source="Harry Potter and the Goblet of Fire" target="Frank Bryce" />
+      <edge id="253" source="Harry Potter and the Goblet of Fire" target="Wormtail" />
+      <edge id="254" source="Harry Potter and the Goblet of Fire" target="Bartemius 'Barty' Crouch Junior" />
+      <edge id="255" source="Harry Potter and the Goblet of Fire" target="Amos Diggory" />
+      <edge id="256" source="Harry Potter and the Goblet of Fire" target="Ministry Witch" />
+      <edge id="257" source="Harry Potter and the Goblet of Fire" target="Ministry Wizard" />
+      <edge id="258" source="Harry Potter and the Goblet of Fire" target="Food Trolley Lady" />
+      <edge id="259" source="Harry Potter and the Goblet of Fire" target="Nigel" />
+      <edge id="260" source="Harry Potter and the Goblet of Fire" target="Gabrielle Delacour" />
+      <edge id="261" source="Harry Potter and the Goblet of Fire" target="Igor Karkaroff" />
+      <edge id="262" source="Harry Potter and the Goblet of Fire" target="Karkaroff's Aide" />
+      <edge id="263" source="Harry Potter and the Goblet of Fire" target="Ernie MacMillan" />
+      <edge id="264" source="Harry Potter and the Goblet of Fire" target="Hannah Abbott" />
+      <edge id="265" source="Harry Potter and the Goblet of Fire" target="Photographer" />
+      <edge id="266" source="Harry Potter and the Goblet of Fire" target="Angelina Johnson" />
+      <edge id="267" source="Harry Potter and the Goblet of Fire" target="Roger Davies" />
+      <edge id="268" source="Harry Potter and the Goblet of Fire" target="Band Lead Singer" />
+      <edge id="269" source="Harry Potter and the Goblet of Fire" target="Band Lead Guitar" />
+      <edge id="270" source="Harry Potter and the Goblet of Fire" target="Band Drums" />
+      <edge id="271" source="Harry Potter and the Goblet of Fire" target="Band Bass Guitar" />
+      <edge id="272" source="Harry Potter and the Goblet of Fire" target="Band Rhythm Guitar" />
+      <edge id="273" source="Harry Potter and the Goblet of Fire" target="Band Keyboards" />
+      <edge id="274" source="Harry Potter and the Goblet of Fire" target="Moaning Myrtle" />
+      <edge id="275" source="Harry Potter and the Goblet of Fire" target="Assistant Judge" />
+      <edge id="276" source="Ernie MacMillan" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="277" source="Hannah Abbott" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="278" source="Angelina Johnson" target="Harry Potter and the Prisoner of Azkaban" />
+      <edge id="279" source="Angelina Johnson" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="280" source="Angelina Johnson" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="281" source="Harry Potter and the Prisoner of Azkaban" target="Sybill Trelawney" />
+      <edge id="282" source="Harry Potter and the Prisoner of Azkaban" target="Seamus Finnegan" />
+      <edge id="283" source="Harry Potter and the Prisoner of Azkaban" target="Marge Dursley" />
+      <edge id="284" source="Harry Potter and the Prisoner of Azkaban" target="The Fat Lady" />
+      <edge id="285" source="Harry Potter and the Prisoner of Azkaban" target="Stan Shunpike" />
+      <edge id="286" source="Harry Potter and the Prisoner of Azkaban" target="Ernie Prang" />
+      <edge id="287" source="Harry Potter and the Prisoner of Azkaban" target="Dre Head (voice)" />
+      <edge id="288" source="Harry Potter and the Prisoner of Azkaban" target="Parvati Patel" />
+      <edge id="289" source="Harry Potter and the Prisoner of Azkaban" target="Pike" />
+      <edge id="290" source="Harry Potter and the Prisoner of Azkaban" target="Tom" />
+      <edge id="291" source="Harry Potter and the Prisoner of Azkaban" target="Bem" />
+      <edge id="292" source="Harry Potter and the Prisoner of Azkaban" target="Madame Rosmerta" />
+      <edge id="293" source="Harry Potter and the Prisoner of Azkaban" target="Sir Cadogan" />
+      <edge id="294" source="Harry Potter and the Prisoner of Azkaban" target="Rionach O'Neal" />
+      <edge id="295" source="Harry Potter and the Prisoner of Azkaban" target="Eloise Midgen" />
+      <edge id="296" source="Harry Potter and the Prisoner of Azkaban" target="Kellah" />
+      <edge id="297" source="Harry Potter and the Prisoner of Azkaban" target="Michael McManus" />
+      <edge id="298" source="Harry Potter and the Prisoner of Azkaban" target="Girl with Flowers" />
+      <edge id="299" source="Tom" target="Harry Potter and the Philosopher's Stone" />
+      <edge id="300" source="Girl with Flowers" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="301" source="Harry Potter and the Philosopher's Stone" target="Quirinus Quirrell" />
+      <edge id="302" source="Harry Potter and the Philosopher's Stone" target="Garrick Ollivander" />
+      <edge id="303" source="Harry Potter and the Philosopher's Stone" target="Oliver Wood" />
+      <edge id="304" source="Harry Potter and the Philosopher's Stone" target="Goblin Bank Teller / Filius Flitwick" />
+      <edge id="305" source="Harry Potter and the Philosopher's Stone" target="Nearly Headless Nick" />
+      <edge id="306" source="Harry Potter and the Philosopher's Stone" target="Rolanda Hooch" />
+      <edge id="307" source="Harry Potter and the Philosopher's Stone" target="Lee Jordan" />
+      <edge id="308" source="Harry Potter and the Philosopher's Stone" target="Griphook" />
+      <edge id="309" source="Harry Potter and the Philosopher's Stone" target="Fat Lady" />
+      <edge id="310" source="Harry Potter and the Philosopher's Stone" target="The Grey Lady" />
+      <edge id="311" source="Harry Potter and the Philosopher's Stone" target="The Bloody Barron" />
+      <edge id="312" source="Harry Potter and the Philosopher's Stone" target="The Sorting Hat" />
+      <edge id="313" source="Harry Potter and the Philosopher's Stone" target="Fat Friar" />
+      <edge id="314" source="Harry Potter and the Philosopher's Stone" target="Firenze (voice)" />
+      <edge id="315" source="Harry Potter and the Philosopher's Stone" target="Susan Bones" />
+      <edge id="316" source="Harry Potter and the Philosopher's Stone" target="Angus" />
+      <edge id="317" source="Harry Potter and the Philosopher's Stone" target="Alicia Spinnet" />
+      <edge id="318" source="Harry Potter and the Philosopher's Stone" target="Marcus Flint" />
+      <edge id="319" source="Harry Potter and the Philosopher's Stone" target="Terrence Higgs" />
+      <edge id="320" source="Harry Potter and the Philosopher's Stone" target="Baby Harry Potter" />
+      <edge id="321" source="Harry Potter and the Philosopher's Stone" target="Miles Bletchley" />
+      <edge id="322" source="Harry Potter and the Philosopher's Stone" target="Dedalus Diggle" />
+      <edge id="323" source="Harry Potter and the Philosopher's Stone" target="Augusta Longbottom" />
+      <edge id="324" source="Harry Potter and the Philosopher's Stone" target="Septima Vector" />
+      <edge id="325" source="Harry Potter and the Philosopher's Stone" target="Amanda" />
+      <edge id="326" source="Harry Potter and the Philosopher's Stone" target="Alice" />
+      <edge id="327" source="Harry Potter and the Philosopher's Stone" target="Ravenclaw Schoolboy" />
+      <edge id="328" source="Harry Potter and the Philosopher's Stone" target="Gryffindor Schoolgirl" />
+      <edge id="329" source="Harry Potter and the Philosopher's Stone" target="Hufflepuff Schoolgirl" />
+      <edge id="330" source="Harry Potter and the Philosopher's Stone" target="Goblin (uncredited)" />
+      <edge id="331" source="Harry Potter and the Philosopher's Stone" target="Child at Zoo (uncredited)" />
+      <edge id="332" source="Oliver Wood" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="333" source="Lee Jordan" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="334" source="The Grey Lady" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="335" source="Susan Bones" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="336" source="Angus" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="337" source="Alicia Spinnet" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="338" source="Marcus Flint" target="Harry Potter and the Chamber of Secrets" />
+      <edge id="339" source="Harry Potter and the Chamber of Secrets" target="Gilderoy Lockhart" />
+      <edge id="340" source="Harry Potter and the Chamber of Secrets" target="Myrtle Warren" />
+      <edge id="341" source="Harry Potter and the Chamber of Secrets" target="Dobby (voice)" />
+      <edge id="342" source="Harry Potter and the Chamber of Secrets" target="Nicholas de Mimsy-Porpington" />
+      <edge id="343" source="Harry Potter and the Chamber of Secrets" target="Colin Creevey" />
+      <edge id="344" source="Harry Potter and the Chamber of Secrets" target="Pomona Sprout" />
+      <edge id="345" source="Harry Potter and the Chamber of Secrets" target="Tom Marvolo Riddle" />
+      <edge id="346" source="Harry Potter and the Chamber of Secrets" target="Justin Finch-Fletchley" />
+      <edge id="347" source="Harry Potter and the Chamber of Secrets" target="The Sorting Hat (voice)" />
+      <edge id="348" source="Harry Potter and the Chamber of Secrets" target="Aragog (voice)" />
+      <edge id="349" source="Harry Potter and the Chamber of Secrets" target="Young Hagrid" />
+      <edge id="350" source="Harry Potter and the Chamber of Secrets" target="Penelope Clearwater" />
+      <edge id="351" source="Harry Potter and the Chamber of Secrets" target="Millicent Bulstrode" />
+      <edge id="352" source="Harry Potter and the Chamber of Secrets" target="Mr. Mason" />
+      <edge id="353" source="Harry Potter and the Chamber of Secrets" target="Mrs Mason" />
+      <edge id="354" source="Harry Potter and the Chamber of Secrets" target="Mrs Granger" />
+      <edge id="355" source="Harry Potter and the Chamber of Secrets" target="Mr. Granger" />
+      <edge id="356" source="Harry Potter and the Chamber of Secrets" target="Armando Dippet" />
+      <edge id="357" source="Harry Potter and the Chamber of Secrets" target="Bozo" />
+    </edges>
+  </graph>
+</gexf>
