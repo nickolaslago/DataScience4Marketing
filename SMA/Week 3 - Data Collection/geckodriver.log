@@ -1,0 +1,194 @@
+1608224787547	geckodriver	INFO	Listening on 127.0.0.1:58271
+1608224788564	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofiledGw8Mu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608224792597	Marionette	INFO	Listening on port 58282
+1608224792710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608224797368	Marionette	INFO	Stopped listening on port 58282
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608225020672	geckodriver	INFO	Listening on 127.0.0.1:58443
+1608225021688	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileVFLb4D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225024594	Marionette	INFO	Listening on port 58454
+1608225024701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608225030683	Marionette	INFO	Stopped listening on port 58454
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608225155148	geckodriver	INFO	Listening on 127.0.0.1:58596
+1608225156158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofilekp3OqL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225159558	Marionette	INFO	Listening on port 58607
+1608225159685	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+1608225457976	geckodriver	INFO	Listening on 127.0.0.1:58752
+1608225458986	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofilefSOQJI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225461878	Marionette	INFO	Listening on port 58764
+1608225461979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608225466165	Marionette	INFO	Stopped listening on port 58764
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608225537726	geckodriver	INFO	Listening on 127.0.0.1:58890
+1608225538740	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileyzB1XC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225541515	Marionette	INFO	Listening on port 58901
+1608225541545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608225545237	Marionette	INFO	Stopped listening on port 58901
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608225651138	geckodriver	INFO	Listening on 127.0.0.1:59013
+1608225652156	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileiFlgXC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225654942	Marionette	INFO	Listening on port 59024
+1608225655049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608225659562	Marionette	INFO	Stopped listening on port 59024
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608225660946	geckodriver	INFO	Listening on 127.0.0.1:59113
+1608225661957	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofilekHlYbQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225664755	Marionette	INFO	Listening on port 59126
+1608225664865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608225668784	Marionette	INFO	Stopped listening on port 59126
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-or5-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608225669837	geckodriver	INFO	Listening on 127.0.0.1:59217
+1608225670847	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofile9Em4lF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225673607	Marionette	INFO	Listening on port 59228
+1608225673640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608225677426	Marionette	INFO	Stopped listening on port 59228
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-or10-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-or10-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: TypeError: NetworkError when attempting to fetch resource.
+1608225678364	geckodriver	INFO	Listening on 127.0.0.1:59305
+1608225679377	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileryuqc7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225682047	Marionette	INFO	Listening on port 59316
+1608225682078	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+1608225961854	geckodriver	INFO	Listening on 127.0.0.1:59463
+1608225962867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofile354wSp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225965746	Marionette	INFO	Listening on port 59474
+1608225965887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608225969779	Marionette	INFO	Stopped listening on port 59474
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608225970795	geckodriver	INFO	Listening on 127.0.0.1:59564
+1608225971803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofiletIslnl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225974591	Marionette	INFO	Listening on port 59575
+1608225974711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608225978138	Marionette	INFO	Stopped listening on port 59575
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-or5-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608225979260	geckodriver	INFO	Listening on 127.0.0.1:59663
+1608225980275	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileC5GWHH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225983172	Marionette	INFO	Listening on port 59675
+1608225983267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608225987288	Marionette	INFO	Stopped listening on port 59675
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d229324-Reviews-or10-Sheraton_Lisboa_Hotel_Spa-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608225988413	geckodriver	INFO	Listening on 127.0.0.1:59760
+1608225989428	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileVsFkfK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608225992230	Marionette	INFO	Listening on port 59771
+1608225992352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608225996097	Marionette	INFO	Stopped listening on port 59771
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d12659702-Reviews-Corpo_Santo_Lisbon_Historical_Hotel-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608225997141	geckodriver	INFO	Listening on 127.0.0.1:59852
+1608225998153	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileydfExD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226000842	Marionette	INFO	Listening on port 59863
+1608226000948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226004803	Marionette	INFO	Stopped listening on port 59863
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d12659702-Reviews-or5-Corpo_Santo_Lisbon_Historical_Hotel-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608226005753	geckodriver	INFO	Listening on 127.0.0.1:59940
+1608226006765	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileT1PzZp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226009535	Marionette	INFO	Listening on port 59951
+1608226009653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226013405	Marionette	INFO	Stopped listening on port 59951
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d12659702-Reviews-or10-Corpo_Santo_Lisbon_Historical_Hotel-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608226014344	geckodriver	INFO	Listening on 127.0.0.1:60032
+1608226015356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileXZjyPp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226018092	Marionette	INFO	Listening on port 60043
+1608226018149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226021621	Marionette	INFO	Stopped listening on port 60043
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d3323582-Reviews-Myriad_by_SANA_Hotels-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608226022584	geckodriver	INFO	Listening on 127.0.0.1:60127
+1608226023597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofile8XOxKL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226026418	Marionette	INFO	Listening on port 60140
+1608226026491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226030118	Marionette	INFO	Stopped listening on port 60140
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d3323582-Reviews-or5-Myriad_by_SANA_Hotels-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608226031496	geckodriver	INFO	Listening on 127.0.0.1:60220
+1608226032509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofiledtaYxG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226035177	Marionette	INFO	Listening on port 60231
+1608226035213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226038637	Marionette	INFO	Stopped listening on port 60231
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d3323582-Reviews-or10-Myriad_by_SANA_Hotels-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608226039666	geckodriver	INFO	Listening on 127.0.0.1:60309
+1608226040677	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofilex4FyPA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226043407	Marionette	INFO	Listening on port 60324
+1608226043498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226047157	Marionette	INFO	Stopped listening on port 60324
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d195643-Reviews-Hotel_Avenida_Palace-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608226048119	geckodriver	INFO	Listening on 127.0.0.1:60403
+1608226049129	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileR00Wik"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226051795	Marionette	INFO	Listening on port 60414
+1608226051832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226055686	Marionette	INFO	Stopped listening on port 60414
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d195643-Reviews-or5-Hotel_Avenida_Palace-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608226056672	geckodriver	INFO	Listening on 127.0.0.1:60493
+1608226057687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofilex0isau"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226060422	Marionette	INFO	Listening on port 60504
+1608226060489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226064215	Marionette	INFO	Stopped listening on port 60504
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d195643-Reviews-or10-Hotel_Avenida_Palace-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608226065137	geckodriver	INFO	Listening on 127.0.0.1:60588
+1608226066149	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileQPZqZg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226068802	Marionette	INFO	Listening on port 60599
+1608226068862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226072773	Marionette	INFO	Stopped listening on port 60599
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d276952-Reviews-Corinthia_Lisbon-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608226073748	geckodriver	INFO	Listening on 127.0.0.1:60677
+1608226074763	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofile6w8iE7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226077468	Marionette	INFO	Listening on port 60688
+1608226077560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226081458	Marionette	INFO	Stopped listening on port 60688
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d276952-Reviews-or5-Corinthia_Lisbon-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
+1608226082404	geckodriver	INFO	Listening on 127.0.0.1:60773
+1608226083417	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/6_/61rqb3dd4mv0m12l9n0k6gtm0000gn/T/rust_mozprofileCvX4ey"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608226086083	Marionette	INFO	Listening on port 60784
+1608226086203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608226090209	Marionette	INFO	Stopped listening on port 60784
+JavaScript error: https://www.tripadvisor.co.uk/Hotel_Review-g189158-d276952-Reviews-or10-Corinthia_Lisbon-Lisbon_Lisbon_District_Central_Portugal.html, line 29: NetworkError: A network error occurred.
